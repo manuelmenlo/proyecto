@@ -114,6 +114,8 @@ int main () {
 	variable I2 y la tercera columna del archivo son las energías que se 
 	guardarán en el arreglo ENE.*/
 
+	/*Puse este comentario al final para seguir usando github.*/ /*Cambié de lugar el comentario que puse al final.*/
+
 	for (int i = 0; i < E; i++) {
 		entrada2 >> I1[i] >> I2[i] >> ENE[i];
 	}
@@ -207,7 +209,5 @@ int main () {
 	delete[] ENE;
 
 	return 0;
-
-	/*Puse este comentario al final para seguir usando github.*/
 
 }
