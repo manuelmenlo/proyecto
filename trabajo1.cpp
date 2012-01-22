@@ -11,8 +11,6 @@ Estrictamente hablando, la dinámica queda simulada por un conjunto de
 ecuaciones diferenciales acopladas, cada una simula el comportamiento temporal
 del número de ocupación promedio en cada estado.*/
 
-/*Aquí agregué un comentario para usar github.*/
-
 /*El método numérico a utilizar será el método de Euler.*/
 
 /*A continuación se incluyen las librerías que se van a utilizar a lo largo del 
