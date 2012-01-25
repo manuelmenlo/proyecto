@@ -207,5 +207,4 @@ int main () {
 	delete[] ENE;
 
 	return 0;
-
 }
